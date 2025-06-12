@@ -44,7 +44,7 @@ function Header({ menuOpen, toggleMenu, setMenuOpen, menuItems }) {
       try {
         const results = await Promise.all(
           symbols.map(async (item) => {
-            const res = await fetch(`http://70.153.80.36:5000`);
+            const res = await fetch(`http://70.153.80.133:8000/predict?symbol=${item.symbol}`);
             const data = await res.json();
             return { ...data, pair: item.name };
           }),
