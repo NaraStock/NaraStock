@@ -76,9 +76,11 @@ MVP Architecture — Pola arsitektur terstruktur dan modular
 ```
 
 Catatan Pengembangan
+```
 Setiap fitur dipisah ke dalam folder masing-masing.
 Folder presenter menangani logika, sedangkan page menangani tampilan.
 Anda bisa mengembangkan lebih jauh dengan menambahkan koneksi API melalui services/Model.js.
+```
 
 🙋‍♀Kontributor
 Dibuat oleh: Priscilia Leza
