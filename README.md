@@ -1,5 +1,5 @@
 # naraDev-React Web App
-Naradev adalah aplikasi web modern yang dikembangkan menggunakan **React**, **Vite**, dan **Tailwind CSS**. Proyek ini menggunakan arsitektur **MVP (Model-View-Presenter)** dan memiliki berbagai fitur seperti artikel, prediksi, bookmark, autentikasi user & admin, dan lain-lain.
+Naradev adalah Platform Analisis Pasar saham untuk investor pemula dengan design web modern yang dikembangkan menggunakan **React**, **Vite**, dan **Tailwind CSS**. Proyek ini menggunakan arsitektur **MVP (Model-View-Presenter)** dan memiliki berbagai fitur seperti artikel, prediksi, bookmark, autentikasi user & admin, dan lain-lain.
 
 ---
 
