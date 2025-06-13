@@ -83,8 +83,9 @@ Anda bisa mengembangkan lebih jauh dengan menambahkan koneksi API melalui servic
 ```
 
 🙋‍♀Kontributor
-Dibuat oleh: Priscilia Leza
-GitHub: @AmandaPriscilia
+```
+Dibuat oleh: Team developer NaraStock
+```
 
 
 
